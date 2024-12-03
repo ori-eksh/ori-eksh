@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Projects that involve innovative problem-solving or educational tools.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ori-eksh](https://github.com/ori-eksh)
+- 👨‍💻 All of my projects are available at my Github
 
 - 📫 How to reach me **orikshe@gmail.com**
 
